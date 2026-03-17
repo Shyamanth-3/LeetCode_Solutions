@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Union-Find
 |  |
 | ------- |
@@ -44,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+## Sorting
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+## Matrix
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->
