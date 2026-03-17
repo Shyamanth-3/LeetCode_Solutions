@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0061-rotate-list) |
+| [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,8 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
