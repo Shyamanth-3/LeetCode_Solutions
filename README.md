@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
