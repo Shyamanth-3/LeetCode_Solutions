@@ -57,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
