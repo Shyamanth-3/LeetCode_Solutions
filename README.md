@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Union-Find
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
