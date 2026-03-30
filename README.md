@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Queue
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
