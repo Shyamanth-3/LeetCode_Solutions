@@ -134,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
