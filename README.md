@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0273-integer-to-english-words](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
