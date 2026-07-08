@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Union-Find
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
