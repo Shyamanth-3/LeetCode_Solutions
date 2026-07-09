@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 ## Interactive
 |  |
