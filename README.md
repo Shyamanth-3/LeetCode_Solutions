@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2390-removing-stars-from-a-string](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3675-minimum-operations-to-transform-string](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 ## Queue
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3675-minimum-operations-to-transform-string](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/3675-minimum-operations-to-transform-string) |
 ## Sorting
 |  |
 | ------- |
