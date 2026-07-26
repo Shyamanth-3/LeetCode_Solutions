@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Union-Find
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -185,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Shyamanth-3/LeetCode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
